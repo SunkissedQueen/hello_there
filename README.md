@@ -91,7 +91,7 @@ Write more comments to describe changes
 `Merge pull request`
 `Confirm merge`
 `Delete branch`
-follow steps to delete branch in terminal
+Follow steps to delete branch in terminal
 Follow steps to create a new branch
 
 * Create a new branch before performing changes to main
