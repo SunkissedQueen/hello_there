@@ -84,8 +84,13 @@ Saves all changes. If not $ git add <copy/paste file name>
 Following steps performed by current driver
 $ git commit -m "brief descriptive message of changes"
 $ git push origin <branch name>
-Copy/paste github link
-Open pull request/merge branch/delete branch on gitHub
+Go to github webpage, should see a green button to `compare & pull request`
+If no errors, should see checkmark near `able to merge`
+Write more comments to describe changes
+`Create pull request`
+`Merge pull request`
+`Confirm merge`
+`Delete branch`
 follow steps to delete branch in terminal
 Follow steps to create a new branch
 
